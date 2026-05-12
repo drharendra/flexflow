@@ -1,0 +1,6 @@
+{
+  "name": "FlexFlow AI",
+  "description": "Advanced AI-powered physiotherapy platform featuring real-time computer vision for posture analysis, joint tracking, and personalized recovery continuity.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
